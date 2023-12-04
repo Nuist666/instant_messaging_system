@@ -10,7 +10,7 @@
 </head>
 <body>
 <script type="text/javascript">
-    alert("进入文件传输页面！");
+    alert("${info}");
 </script>
 
 <!-- 上传文件是上传到服务器上，而保存到数据库是文件名 -->
